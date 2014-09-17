@@ -1,11 +1,8 @@
-rotton_tomato_movie_app
-=======================
+RottenTomatoe
+==============
 
-(weekly project submission README))
 
-This is an IOS demo application for rotton tomatoes movies App usign TableView and TableViewCells [see project requirement here](http://courses.codepath.com/courses/intro_to_ios/week/1#!assignment). See the [simple version rotton tomatoes ](http://vimeo.com/105842473) for a step-by-step tutorial.
-
-Time spent: 8 hours spent in total
+Time spent: 5 hours spent in total
 
 Completed user stories:
  * [x] Required: User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously.
@@ -16,9 +13,9 @@ Completed user stories:
  * [x] Optional: Customize the navigation bar.
  * [x] Optional: Add a tab bar for Box Office and DVD.
 
-Walkthrough of all user stories:
+   
+ 
+ Walkthrough 
+ --- 
 
-![Video Walkthrough](demo_3.gif)
-
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Video Walkthrough](demo.gif)
